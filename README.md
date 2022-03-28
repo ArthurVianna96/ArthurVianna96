@@ -1,8 +1,8 @@
 <header>
   
-![GithubStats](https://github-readme-stats.vercel.app/api?username=ArthurPedrosa96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
+![GithubStats](https://github-readme-stats.vercel.app/api?username=ArthurVianna96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
   
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPedrosa96&layout=compact&show_icons=true&theme=tokyonight)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVianna96&layout=compact&show_icons=true&theme=tokyonight)
   
 </header>
 
