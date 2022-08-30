@@ -5,7 +5,6 @@
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVianna96&layout=compact&show_icons=true&theme=tokyonight)
   
 </header>
-
 <br/>
 
 <main style="">
