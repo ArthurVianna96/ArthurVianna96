@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arthur Vianna</h1>
-<h3 align="center">A passionate frontend and backend developer with a burning desire to learn as much as possible</h3>
+<h1 align="left">Hi 👋, I'm Arthur Vianna</h1>
+<h3 align="left">A passionate frontend and backend developer with a burning desire to learn as much as possible</h3>
+
+## :bust_in_silhouette: About me
 
 - 🔭 I’m currently working as a FullStack developer at [Fabrica de Ideias](http://www.fabricadeideias.com.br/)
 
@@ -18,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arthurvianna-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/arthurvianna-dev/" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## :hammer_and_wrench: Languages and Tools
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -40,9 +42,8 @@
 </p>
 
 
+## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurvianna96&show_icons=true&locale=en&layout=compact" alt="arthurvianna96" /></p>
+<a href="https://github.com/ArthurVianna96/ArthurVianna96"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurvianna96&show_icons=true&locale=en&langs_count=3&hide=html,css" alt="arthurvianna96" /></a> <a href="https://github.com/ArthurVianna96/ArthurVianna96"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurvianna96&show_icons=true&locale=en&line_height=27&count_private=true" alt="arthurvianna96" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurvianna96&show_icons=true&locale=en" alt="arthurvianna96" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurvianna96&" alt="arthurvianna96" /></p>
