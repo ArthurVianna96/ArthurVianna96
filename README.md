@@ -4,7 +4,7 @@
 
   ## :bust_in_silhouette: About me
 
-  - 🔭 I’m currently working as a FullStack developer at [Fabrica de Ideias](http://www.fabricadeideias.com.br/)
+  - 🔭 I’m currently working as a FullStack developer at [Vidya Code](https://vidyacode.com.br/)
 
   - 🌱 I’m currently learning **Typescript, Nodejs and Docker**
 
@@ -53,7 +53,7 @@
 
   ## :bust_in_silhouette: Sobre mim
 
-  - 🔭 Desenvolvedor FullStack em [Fabrica de Ideias](http://www.fabricadeideias.com.br/)
+  - 🔭 Desenvolvedor FullStack em [Vidya Code](https://vidyacode.com.br/)
 
   - 🌱 Atualmente estou estudando **Typescript, Nodejs and Docker**
 
