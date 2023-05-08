@@ -4,7 +4,7 @@
 
   ## :bust_in_silhouette: About me
 
-  - 🔭 I’m currently working as a FullStack developer at [Vidya Code](https://vidyacode.com.br/)
+  - 🔭 I’m currently working as a Software Engineer at [SuperMoney](https://www.supermoney.com/)
 
   - 🌱 I’m currently learning **Typescript, Nodejs and Docker**
 
@@ -53,7 +53,7 @@
 
   ## :bust_in_silhouette: Sobre mim
 
-  - 🔭 Desenvolvedor FullStack em [Vidya Code](https://vidyacode.com.br/)
+  - 🔭 Engenheiro de Software em [SuperMoney](https://www.supermoney.com/)
 
   - 🌱 Atualmente estou estudando **Typescript, Nodejs and Docker**
 
