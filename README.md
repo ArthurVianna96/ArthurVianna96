@@ -4,10 +4,6 @@
 
   ## :bust_in_silhouette: About me
 
-  - 🔭 I’m currently working as a Software Engineer at [SuperMoney](https://www.supermoney.com/)
-
-  - 🌱 I’m currently learning **Typescript, Nodejs and Docker**
-
   - 👨‍💻 Some of my relevant projects are available at [https://arthurvianna.netlify.app/](https://arthurvianna.netlify.app/)
 
   - 💬 Ask me about **React, Vue, Nodejs**
@@ -52,10 +48,6 @@
   <h3 align="left">Sou um desenvolvedor Frontend e Backend com uma enorme vontade de aprender o máximo possível</h3>
 
   ## :bust_in_silhouette: Sobre mim
-
-  - 🔭 Engenheiro de Software em [SuperMoney](https://www.supermoney.com/)
-
-  - 🌱 Atualmente estou estudando **Typescript, Nodejs and Docker**
 
   - 👨‍💻 Alguns dos meus projetos mais relevantes estão aqui [https://arthurvianna.netlify.app/](https://arthurvianna.netlify.app/)
 
